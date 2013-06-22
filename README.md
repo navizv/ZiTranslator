@@ -2,7 +2,9 @@ ZiTranslator
 ============
 
 Simple text editor for change file encoding
+
 Copyright (c) 2012 Ivan Zaytsev
+
 Licensed under MIT/X11
 
 Simple java application built mainly to change file encoding.
